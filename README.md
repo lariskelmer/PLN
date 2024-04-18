@@ -12,6 +12,3 @@ O objetivo desta etapa do projeto é realizar a raspagem, carregamento e pré-pr
 
 ### Contribuição:
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções.
-
-### Licença:
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
