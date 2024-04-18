@@ -1,9 +1,9 @@
 # Projeto de Processamento de Linguagem Natural (PLN) - Etapa 1
 
-## Preparação para Análise de Sentimento com Tweets dos Presidenciáveis de 2023
+## Preparação para Análise de Sentimento com Tweets dos Presidenciáveis de 2022
 
 ### Objetivo:
-O objetivo desta etapa do projeto é realizar a raspagem, carregamento e pré-processamento dos dados dos tweets dos presidenciáveis de 2023 para posterior análise de sentimento.
+O objetivo desta etapa do projeto é realizar a raspagem, carregamento e pré-processamento dos dados dos tweets dos presidenciáveis de 2022 para posterior análise de sentimento.
 
 ### Passos:
 1. **Raspagem de Dados:** Utilização de ferramentas de web scraping para coletar os tweets dos presidenciáveis.
@@ -38,6 +38,3 @@ O objetivo desta etapa do projeto é realizar a raspagem, carregamento e pré-pr
     ```
 ### Contribuição:
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções.
-
-### Licença:
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
