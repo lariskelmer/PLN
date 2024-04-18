@@ -1,6 +1,6 @@
 # Projeto de Processamento de Linguagem Natural (PLN)
 
-## Preparação para Análise de Sentimento com Tweets dos Presidenciáveis de 2023
+## Análise de Sentimento com Tweets dos Presidenciáveis de 2023
 
 ### Objetivo:
 O objetivo desta etapa do projeto é realizar a raspagem, carregamento e pré-processamento dos dados dos tweets dos presidenciáveis de 2023 para posterior análise de sentimento.
